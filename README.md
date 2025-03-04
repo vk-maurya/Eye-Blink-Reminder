@@ -2,6 +2,11 @@
 
 A lightweight desktop application that reminds you to blink your eyes regularly, helping to reduce eye strain during long computer sessions.
 
+
+
+https://github.com/user-attachments/assets/43711713-3832-4fde-b332-caa29a937306
+
+
 ## Features
 
 - **Regular Reminders:** Get gentle reminders every 20 minutes to blink your eyes
@@ -10,6 +15,9 @@ A lightweight desktop application that reminds you to blink your eyes regularly,
 - **Do Not Disturb Mode:** Temporarily disable reminders when needed
 - **Customizable Settings:** Adjust reminder intervals to suit your needs
 - **Auto-start with Windows:** Option to launch automatically when your computer starts
+
+## Download
+[Download the Latest Version](https://github.com/vk-maurya/Eye-Blink-Reminder/releases/latest)
 
 ## Installation
 
